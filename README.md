@@ -1,6 +1,8 @@
-# directive-kullanimi
+
 
 > A Vue.js project
+
+# Test how many words you can write in 60 seconds
 
 ## Build Setup
 
